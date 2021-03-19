@@ -26,6 +26,7 @@
   - [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [Project Maintainers](#project-maintainers)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -166,6 +167,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 > _Make sure to go through the [Code of Conduct](CODE_OF_CONDUCT.md) before contributing!_
+
+
+## Project Maintainers
+
+- [Vidhi Mody](https://www.vidhimody.me/)
+- [Soham Parekh](https://www.sohamp.dev)
 
 <!-- LICENSE -->
 
