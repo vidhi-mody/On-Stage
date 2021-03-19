@@ -162,7 +162,7 @@ Distributed under the Apache 2.0 License. See `LICENSE.md` for more information.
 
 ## Contact
 
-- Vidhi Mody <[@vidhi-mody](https://github.com/vidhi-mody), vidhimody6@gmail.com>
+- Vidhi Mody <[@vidhi-mody](https://github.com/vidhi-mody), [vidhimody6@gmail.com](vidhimody6@gmail.com])>
 - Soham Parekh <[@und3fined-v01d](https://github.com/und3fined-v01d), [mail@sohamp.dev](mail@sohamp.dev)>
 
 Project Link: [https://github.com/vidhi-mody/On-Stage](https://github.com/vidhi-mody/On-Stage)
