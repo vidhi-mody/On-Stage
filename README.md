@@ -16,7 +16,7 @@
 
 ## Table of Contents
 
-- [Why On Stage?](#why-wanda-vision)
+- [Why On Stage?](#why-on-stage)
   - [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [Development](#development)
