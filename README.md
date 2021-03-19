@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/ae/6a/a0/ae6aa0d36f22f94548e2dcf7b7e5cba6.png" width="200" alt="Logo">
+    <img src="https://www.pngrepo.com/png/191941/512/theatre-drama.png" width="200" alt="Logo">
   <h1 align="center">On Stage</h1>
 
   <p align="center">
