@@ -11,6 +11,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/vidhi-mody/On-Stage)](https://github.com/vidhi-mody/On-Stage/issues)
 [![Contributors](https://img.shields.io/github/contributors/vidhi-mody/On-Stage)]()
 ![Languages](https://img.shields.io/github/languages/count/vidhi-mody/On-Stage)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <!-- TABLE OF CONTENTS -->
 
