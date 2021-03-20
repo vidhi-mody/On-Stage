@@ -11,7 +11,8 @@
 ![PRs](https://img.shields.io/github/issues-pr-closed/vidhi-mody/On-Stage?color=pink)
 ![Issues](https://img.shields.io/github/issues/vidhi-mody/On-Stage?color=purple)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+[![Contributors](https://img.shields.io/github/contributors/vidhi-mody/On-Stage)]()
+![Languages](https://img.shields.io/github/languages/count/vidhi-mody/On-Stage?color=orange)
 
 
 <!-- TABLE OF CONTENTS -->
