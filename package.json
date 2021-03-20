@@ -11,8 +11,8 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "start": "npm run build && npm run serve",
-    "build": "tsc && cp -r src/views/ build/",
+    "start": "ts-node src/bin/www.ts",
+    "build": "tsc && cp -r src/views/ build/ && cp -r src/public/ build/",
     "serve": "node ./build/bin/www"
   },
   "devDependencies": {
