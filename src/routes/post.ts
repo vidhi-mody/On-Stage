@@ -29,11 +29,11 @@ router.post('/new', async (req: Request, res: Response, next: NextFunction) => {
       if (err) {
         throw err;
       }
-      console.log(fields);
+
       const { caption, category, review, rating } = fields;
       let fileName: string | undefined, type: string | undefined;
 
-      if (files) {
+      if (Array.isArray(files.file) || files?.file?.size) {
         const { type: fileType, path: filePath } = !Array.isArray(files.file)
           ? files.file
           : files.file[0];
@@ -64,7 +64,7 @@ router.post('/new', async (req: Request, res: Response, next: NextFunction) => {
         category: category as string,
         rating: rating as string,
         review: review as string,
-        staticUrl: `/uploads/${fileName}`,
+        staticUrl: fileName ? `/uploads/${fileName}` : '',
         type,
       });
 
