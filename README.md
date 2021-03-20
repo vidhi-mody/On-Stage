@@ -17,6 +17,7 @@
 
 ## Table of Contents
 
+- [Inspiration](#inspiration)
 - [Why On Stage?](#why-on-stage)
   - [About the Project](#about-the-project)
 - [Built With](#built-with)
@@ -25,9 +26,14 @@
   - [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [Project Maintainers](#project-maintainers)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+
+## Inspiration
+
+Performing Arts are all about self expression, exploring alternative options and embracing individuality. It’s not black and white, or about right or wrong answers, and this allows people to develop self confidence and belief in themselves. With improved self confidence and self belief, comes a natural pathway for people to go on to master many more skills that will equip them for life. However, for many of us, though, traditional, large-scale performances are not an option at this time. With a literal show-stopping pandemic, how do we keep people driven and inspired to pursue their passion with no final curtain call to motivate them? These dreadful circumstances demonstrated the need to shift from traditional methods. We believe that theatre training can thrive when obstacles are broached as opportunities. Thus, we propose a platform to try something new, follow your passion and connect with like minded people.  We encourage, guide and motivate users to get ‘On Stage’ be it as a hobby or for pursuing a career! 
 
 <!-- ABOUT THE PROJECT -->
 
@@ -35,14 +41,16 @@
 
 ### Life could be perfect when it's made just for you!
 
-Tired of not being able to express yourself? Welcome to 'On Stage' a platform where you can 'Be You' and follow your passion.
+The performing arts are about being creative. Without a creative voice, a society may become all but dead inside, and a social group without any creativity is likely to be repressive and tyrannical rather than a force for good. The importance of having people in society who can express themselves creatively is without doubt. Biologists have argued that the formation of creativity was the most important step in human development and that society cannot move forward without creative people. Therefore, it is vital that performing arts continue to be nurtured and encouraged.
 
 ### What we offer?
 
-- Self-Discovery and Expression
-- Auditions
-- Drama Recommendations
+- Self Discovery and Expression
 - Social Connect
+- Performing opportunities
+- AI for Upliftment
+- Find the right talent
+- Reviews
 
 ## About The Project
 
@@ -50,19 +58,27 @@ Tired of not being able to express yourself? Welcome to 'On Stage' a platform wh
 
 #### 1. Self-Discovery and Expression
 
-You may suffer from shyness but when you start attending workshops on the platform you will gradually become more confident! Along with teaching self-expression, they will help you as a whole in self-knowledge and understanding.
+In the wake of COVID-19, traditional, large-scale performances are not an option at this time. Our platform lets you learn the performing arts online. Be it a beginner, intermediate or expert, our platform has workshops of varied levels to help you learn a skill or furnish an existing one!
 
-#### 2. Auditions
+#### 2. Social Connect
 
-Want an oppurtunity to showcase your talent? Explore thousands of casting notices every day and find the perfect roles to advance your career.
+Our platform helps you connect with like minded people or users that have the same passion as you! Our Friend Recommendation Engine recommends users not only on the basis of common interest but also similar personality! This helps users collaborate, uplift each other and also offers a sense of companionship.
 
-#### 3. Drama Recommendations
+#### 3. Performing opportunities
 
-Looking for movie or show recommendations. Find user reviews based on genre! On the other hand, have an amazing movie or show to share with the world? You have found the perfect platform!
+Our platform not only helps users learn performing arts but also gives users the opportunity to showcase your talent. It lets users explore thousands of casting notices every day and find the perfect roles to advance their journey of performing.
 
-#### 4. Social Connect
+#### 4. AI for Upliftment
 
-Connect with like minded people or users that have the same passion as you! Our Friend Recommendation Engine recommends users not only on the basis of common interest but also similar user personality!
+We use AI to provide conversation assistance for common performing arts related questions through our ‘Drama Queen’ bot.
+
+#### 5. Find the right talent
+
+Our platform not only let’s production houses post casting notices it also helps in the initial screening of applicants. Our platform analyzes the sentiment of the user through the answers given and provides valuable insights on user personality.
+
+#### 6. Reviews
+
+Looking for movies or show recommendations? Our platform helps find user reviews based on genre! 
 
 
 ### Built With
@@ -92,7 +108,7 @@ Clone the repo and hit yarn install.
 yarn install
 ```
 
-### Startup
+### Installation
 
 1. Clone the repo
 
@@ -151,6 +167,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 > _Make sure to go through the [Code of Conduct](CODE_OF_CONDUCT.md) before contributing!_
+
+
+## Project Maintainers
+
+- [Vidhi Mody](https://www.vidhimody.me/)
+- [Soham Parekh](https://www.sohamp.dev)
 
 <!-- LICENSE -->
 
