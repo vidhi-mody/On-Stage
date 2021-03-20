@@ -6,6 +6,9 @@
   "repository": "git@github.com:vidhi-mody/On-Stage.git",
   "author": "Vidhi Mody <vidhimody6@gmail.com>",
   "license": "Apache License 2.0",
+  "engines": {
+    "node": "12.18.3"
+  },
   "scripts": {
     "dev": "nodemon",
     "start": "ts-node src/bin/www.ts"
